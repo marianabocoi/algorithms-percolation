@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nicevo/percolation.svg?branch=master)](https://travis-ci.org/nicevo/percolation)
+
 # Percolation
 
 For this exercise we have a sqware of n*n cells and we open once cell at a time. When a cell is opened it gets connected to the cells around it that are also oppened. The goal is to detect when the sqware percolates (a top cell is connected to a bottom cell).
